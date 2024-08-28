@@ -1,0 +1,9 @@
+create schema my
+create table my.Persons(
+    name char(255),
+    surname char(255),
+    age int,
+    phone_number char(12),
+    city_of_living char(100),
+    primary key (name, surname, age)
+)

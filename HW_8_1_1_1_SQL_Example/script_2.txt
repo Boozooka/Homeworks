@@ -1,0 +1,2 @@
+select name, surname from my.Persons
+where city_of_living = 'MOSCOW'

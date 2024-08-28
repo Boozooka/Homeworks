@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18f16d00-80b6-46c1-865c-fa2efc888b75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ages/Ages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeMachine/CoffeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Credit/Credit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateAndTime/DateAndTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateAndTime002/DateAndTime002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateTime/DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateTime002/DateTime002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactorialCalculate/FactorialCalculate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fill001/Fill001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FillingStation/FillingStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FillingStation002/FillingStation002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW  2.1.4.1 Stack/HW  2.1.4.1 Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.2.2 Radius and area/HW 1.2.2 Radius and area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.2.2 Radius and area/Radius and area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.1Leap year/HW 1.3.1Leap year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.1Leap year/Leap year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.2Leap year game/HW 1.3.2Leap year game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.2Leap year game/Lipe year game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.1IP/HW 1.4.1IP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.1IP/IP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.2Compaison/Compaison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.2Compaison/HW 1.4.2Compaison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.5.1 TaskManager/HW 1.5.1 TaskManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.6.1OnlineReading/HW 1.6.1OnlineReading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.6.1OnlineReading/OnlineReading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.1 Shop Manager 2/HW 2.1.1 Shop Manager 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.1 ShopManager/HW 2.1.1 ShopManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.2.1 Path for dog/HW 2.1.2.1 Path for dog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.3.1 National team/HW 2.1.3.1 National team.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.5.1 Binary Tree/HW 2.1.5.1 Binary Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.6.1 Rabin-Karp/HW 2.1.6.1 Rabin-Karp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.7.1 Islands/HW 2.1.7.1 Islands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.2 Matrix Rotation/HW 2.2 Matrix Rotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1 Book status/HW 3.1 Book status.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.1.1 Calculator/HW 3.1.1.1 Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.1.2 Working/HW 3.1.1.2 Working.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2 Cars/HW 3.1.2 Cars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2.1 Work with number/HW 3.1.2.1 Work with number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2.2 Population census/HW 3.1.2.2 Population census.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.3.2 Saving/HW 3.1.3.2 Saving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.3.3 Loading/HW 3.1.3.3 Loading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.1 Half-live 3/HW 3.2.1 Half-live 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.2 Tax calculator/HW 3.2.2 Tax calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.2.2 Tax calculation with BigDemo/HW 3.2.2.2 Tax calculation with BigDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.1 library/HW 3.3.1 library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.1/HW 3.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.2 Bank accounts/HW 3.3.2 Bank accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.4.1  Data access/HW 3.4.1  Data access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.4.2 Validation/HW 3.4.2 Validation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.1 ArrayList/HW 4.1 ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.2.1 Elevator/HW 4.2.1 Elevator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.3.1 Phone directory/HW 4.3.1 Phone directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.3.2 Student list/HW 4.3.2 Student list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.4.1 Missed calls/HW 4.4.1 Missed calls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.4.2/HW 4.4.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_9_0_0_1_Cloud_Storage/HW_9_0_0_1_Cloud_Storage_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0001/JK_0001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0002/JK_0002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0003/JK_0003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0004/JK_0004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0006_93cт/JK_0006_93cт.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_homework_1.4.1_ИПшник/JK_homework_1.4.1_ИПшник.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Namels project/Namels project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDemo/src/main/java/SpringDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskTime/TaskTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-tac-toe/Tic-tac-toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vibory/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dkrHpJePnxb26QjNPiRaoW2mDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Development/Programms/java 21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f16d00-80b6-46c1-865c-fa2efc888b75" name="Changes" comment="" />
+      <created>1710562832348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710562832348</updated>
+    </task>
+    <servers />
+  </component>
+</project>

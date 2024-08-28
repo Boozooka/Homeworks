@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1338cbc7-784a-4d88-a67b-bd6d6d718474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ages/Ages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeMachine/CoffeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Credit/Credit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateAndTime/DateAndTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateAndTime002/DateAndTime002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateTime/DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateTime002/DateTime002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FactorialCalculate/FactorialCalculate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fill001/Fill001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FillingStation/FillingStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FillingStation002/FillingStation002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW  2.1.4.1 Stack/HW  2.1.4.1 Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.2.2 Radius and area/HW 1.2.2 Radius and area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.2.2 Radius and area/Radius and area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.1Leap year/HW 1.3.1Leap year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.1Leap year/Leap year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.2Leap year game/HW 1.3.2Leap year game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.3.2Leap year game/Lipe year game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.1IP/HW 1.4.1IP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.1IP/IP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.2Compaison/Compaison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.4.2Compaison/HW 1.4.2Compaison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.5.1 TaskManager/HW 1.5.1 TaskManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.6.1OnlineReading/HW 1.6.1OnlineReading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 1.6.1OnlineReading/OnlineReading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.1 Shop Manager 2/HW 2.1.1 Shop Manager 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.1 ShopManager/HW 2.1.1 ShopManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.2.1 Path for dog/HW 2.1.2.1 Path for dog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.3.1 National team/HW 2.1.3.1 National team.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.5.1 Binary Tree/HW 2.1.5.1 Binary Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.6.1 Rabin-Karp/HW 2.1.6.1 Rabin-Karp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.1.7.1 Islands/HW 2.1.7.1 Islands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 2.2 Matrix Rotation/HW 2.2 Matrix Rotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1 Book status/HW 3.1 Book status.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.1.1 Calculator/HW 3.1.1.1 Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.1.2 Working/HW 3.1.1.2 Working.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2 Cars/HW 3.1.2 Cars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2.1 Work with number/HW 3.1.2.1 Work with number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.2.2 Population census/HW 3.1.2.2 Population census.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.3.2 Saving/HW 3.1.3.2 Saving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.1.3.3 Loading/HW 3.1.3.3 Loading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.1 Half-live 3/HW 3.2.1 Half-live 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.2 Tax calculator/HW 3.2.2 Tax calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.2.2.2 Tax calculation with BigDemo/HW 3.2.2.2 Tax calculation with BigDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.1 library/HW 3.3.1 library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.1/HW 3.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.3.2 Bank accounts/HW 3.3.2 Bank accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.4.1  Data access/HW 3.4.1  Data access.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 3.4.2 Validation/HW 3.4.2 Validation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.1 ArrayList/HW 4.1 ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.2.1 Elevator/HW 4.2.1 Elevator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.3.1 Phone directory/HW 4.3.1 Phone directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.3.2 Student list/HW 4.3.2 Student list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.4.1 Missed calls/HW 4.4.1 Missed calls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 4.4.2/HW 4.4.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_9_0_0_1_Cloud_Storage_1/src/main/java/com/example/resourceserver/base/dto/ContentDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0001/JK_0001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0002/JK_0002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0003/JK_0003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0004/JK_0004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_0006_93cт/JK_0006_93cт.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JK_homework_1.4.1_ИПшник/JK_homework_1.4.1_ИПшник.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Namels project/Namels project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskTime/TaskTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic-tac-toe/Tic-tac-toe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OKuugcWuUmcKds9YumzMsANJvS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Development/IdeaProjects/HW_9_0_0_1_Cloud_Storage/HW_9_0_0_1_Cloud_Storage_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;6c6b915d1e3e442b6004bd3dde646cb2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.resourceserver.base.domain" />
+      <recent name="com.example.resourceserver.base.domen" />
+      <recent name="com.example.resourceserver.base.dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Hw9001CloudStorageApplicationTests">
+    <configuration name="schema.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/schema.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="Hw9001CloudStorageApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_9_0_0_1_Cloud_Storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.resourceserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.resourceserver" />
+      <option name="MAIN_CLASS_NAME" value="com.example.resourceserver.Hw9001CloudStorageApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw9001CloudStorageApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_9_0_0_1_Cloud_Storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.resourceserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.hw_9_0_0_1_cloud_storage" />
+      <option name="MAIN_CLASS_NAME" value="com.example.resourceserver.Hw9001CloudStorageApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw9001CloudStorageApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HW_9_0_0_1_Cloud_Storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.resourceserver.Hw9001CloudStorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw9001CloudStorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HW_9_0_0_1_Cloud_Storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hw_9_0_0_1_cloud_storage.Hw9001CloudStorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Hw9001CloudStorageApplicationTests" />
+        <item itemvalue="JUnit.Hw9001CloudStorageApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1338cbc7-784a-4d88-a67b-bd6d6d718474" name="Changes" comment="" />
+      <created>1681321821221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681321821221</updated>
+      <workItem from="1681321822207" duration="550000" />
+      <workItem from="1681352477115" duration="1797000" />
+      <workItem from="1681529625810" duration="5101000" />
+      <workItem from="1681785609034" duration="956000" />
+      <workItem from="1681835588415" duration="1372000" />
+      <workItem from="1681871374169" duration="1506000" />
+      <workItem from="1681910119210" duration="3884000" />
+      <workItem from="1682391442934" duration="2157000" />
+      <workItem from="1682476932437" duration="370000" />
+      <workItem from="1682917691964" duration="126000" />
+      <workItem from="1683726820287" duration="5458000" />
+      <workItem from="1683808368296" duration="612000" />
+      <workItem from="1683814705187" duration="1027000" />
+      <workItem from="1684044613239" duration="535000" />
+      <workItem from="1684086282297" duration="765000" />
+      <workItem from="1684172178075" duration="1324000" />
+      <workItem from="1684206052240" duration="749000" />
+      <workItem from="1684206941862" duration="184000" />
+      <workItem from="1685251317749" duration="2584000" />
+      <workItem from="1685335169182" duration="22000" />
+      <workItem from="1686409326672" duration="179000" />
+      <workItem from="1686718260575" duration="4195000" />
+      <workItem from="1686931202742" duration="2844000" />
+      <workItem from="1686977043277" duration="614000" />
+      <workItem from="1687061825229" duration="4351000" />
+      <workItem from="1687102743600" duration="2376000" />
+      <workItem from="1687179402314" duration="6414000" />
+      <workItem from="1687235587738" duration="2815000" />
+      <workItem from="1687331534060" duration="3182000" />
+      <workItem from="1687338602313" duration="928000" />
+      <workItem from="1687523910822" duration="3638000" />
+      <workItem from="1687801519420" duration="2829000" />
+      <workItem from="1687844229991" duration="300000" />
+      <workItem from="1688024773087" duration="1922000" />
+      <workItem from="1688490538094" duration="524000" />
+      <workItem from="1688491290725" duration="2840000" />
+      <workItem from="1688559918737" duration="1289000" />
+      <workItem from="1688709508375" duration="1293000" />
+      <workItem from="1688745817359" duration="340000" />
+      <workItem from="1688918562436" duration="1138000" />
+      <workItem from="1688997295488" duration="533000" />
+      <workItem from="1689055541701" duration="5489000" />
+      <workItem from="1689070620149" duration="875000" />
+      <workItem from="1689181506277" duration="743000" />
+      <workItem from="1689400675069" duration="1752000" />
+      <workItem from="1689489815052" duration="7748000" />
+      <workItem from="1689678112400" duration="1452000" />
+      <workItem from="1689686287002" duration="1316000" />
+      <workItem from="1689832791497" duration="1561000" />
+      <workItem from="1689872005570" duration="3484000" />
+      <workItem from="1690091276433" duration="568000" />
+      <workItem from="1690130322586" duration="3349000" />
+      <workItem from="1690177602170" duration="3337000" />
+      <workItem from="1690219777970" duration="2134000" />
+      <workItem from="1690269610014" duration="3482000" />
+      <workItem from="1690355395146" duration="977000" />
+      <workItem from="1690391165153" duration="104000" />
+      <workItem from="1690393287657" duration="882000" />
+      <workItem from="1690905250001" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

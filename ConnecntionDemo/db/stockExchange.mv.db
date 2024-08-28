@@ -1,0 +1,13 @@
+CREATE TABLE traiders(
+	id BIGINT AUTO_INCREMENT PRIMARY KEY,
+	name VARCHAR(255) NOT NULL,
+	freqTiсk INTEGER NOT NULL,
+	cash  DECIMAL(15,2) NOT NULL DEFAULT 1000,
+	tradingMethod INTEGER NOT NULL,
+	changeProbability INTEGER NOT NULL DEFAULT 50,
+	about VARCHAR(255) NULL
+);
+ALTER TABLE traiders ADD CONSTRAINT check_traiders_tradingMethod
+	CHECK(tradingMethod IN (1,2,3));
+ALTER TABLE traiders ADD CONSTRAINT check_traiders_changeProbability
+	CHECK(changeProbability <= 100 AND changeProbability > 0)
